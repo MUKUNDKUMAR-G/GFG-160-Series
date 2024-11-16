@@ -21,12 +21,12 @@ The repository is organized day-wise, with each day's solution in its own folder
 
 ## 📅 Progress Tracker
 
-| Day | Problem                                | Link                                     |
-| --- | -------------------------------------- | ---------------------------------------- |
-| --- | Arrays: Lay the Foundation (Days 1–13) | ----                                     |
-| 1   | Second Largest Element                 | [Solution](DAY1(Second Largest Element)) |
-| 2   | Move All Zeroes to End                 | [Solution](DAY2(Move All Zeroes to End)) |
-| ... | ...                                    | ...                                      |
+| Day | Problem                                | Link                                       |
+| --- | -------------------------------------- | ------------------------------------------ |
+| --- | Arrays: Lay the Foundation (Days 1–13) | ----                                       |
+| 1   | Second Largest Element                 | [Solution](./DAY1(Second Largest Element)) |
+| 2   | Move All Zeroes to End                 | [Solution](./DAY2(Move All Zeroes to End)) |
+| ... | ...                                    | ...                                        |
 
 ---
 
