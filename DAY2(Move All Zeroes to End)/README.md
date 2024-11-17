@@ -82,11 +82,12 @@ There are three 0s that are moved to the end.
 
 ## 🧠 Approach and Solution
 
-1. Use two pointers:
-   - `j` to track the position for the next non-zero element.
-   - Iterate through the array, placing non-zero elements at position j.
-2. Time Complexity: 𝑂(𝑛), as we iterate through the array once.
-3. Auxiliary Space: 𝑂(1), as the operation is in-place.
+1. Use a pointer `count` to track the position for the next non-zero element.
+2. Traverse the array.
+3. On encountering a `non-zero element`:
+   - Swap it with the element at arr[count].
+   - Increment count.
+4. This ensures non-zero elements are placed in the correct order and zeros are pushed to the end.
 
 ---
 

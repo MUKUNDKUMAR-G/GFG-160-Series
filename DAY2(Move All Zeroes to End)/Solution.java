@@ -3,13 +3,15 @@ import java.util.Scanner;
 public class Solution {
     private static void pushZerosToEnd(int arr[]) {
         int n = arr.length;
-        int j = 0; // Index for non-zero elements
+        int count = 0; // Index for non-zero elements
         
         // Move all non-zero elements to the front
         for (int i = 0; i < n; i++) {
             if (arr[i] != 0) {
-                arr[j] = arr[i];
-                j++;
+                int temp = arr[count];
+                arr[count] = arr[i];
+                arr[i] = temp;
+                count++;
             }
         }
     }

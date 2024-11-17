@@ -26,6 +26,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | --- | Arrays: Lay the Foundation (Days 1–13) | ----                                                                                                         |
 | 1   | Second Largest Element                 | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY1(Second%20Largest%20Element)>)     |
 | 2   | Move All Zeroes to End                 | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY2(Move%20All%20Zeroes%20to%20End)>) |
+| 3   | Reverse an Array                       | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY3(Reverse%20an%20Array)>)           |
 | ... | ...                                    | ...                                                                                                          |
 
 ---
