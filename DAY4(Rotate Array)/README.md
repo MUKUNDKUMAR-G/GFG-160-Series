@@ -1,4 +1,4 @@
-# Rotate Array by d Elements🔄
+# Rotate an Array by d - Counterclockwise or Left🔄
 
 ## Problem Statement
 
@@ -44,7 +44,7 @@ The array after rotation.
 #### Input:
 
 ```
-arr[] = [1, 2, 3, 4, 5],
+arr[] = {1, 2, 3, 4, 5, 6},
 d = 2
 
 ```
@@ -52,32 +52,34 @@ d = 2
 **Output:**
 
 ```java
-[3, 4, 5, 1, 2]
+{3, 4, 5, 6, 1, 2}
 ```
 
 ### Explanation:
 
-when rotated by 2 elements, it becomes 3 4 5 1 2.
+After first left rotation, arr[] becomes {2, 3, 4, 5, 6, 1} and after the second rotation, arr[] becomes {3, 4, 5, 6, 1, 2}
 
 ### Example 2
 
 #### Input
 
 ```
-arr[] = [7, 3, 9, 1],
-d = 9
-
+arr[] = {1, 2, 3},
+d = 4
 ```
 
 **Output:**
 
 ```java
-[3, 9, 1, 7]
+{2, 3, 1}
 ```
 
 #### Explanation:
 
-The elements of the array are 4 5 2. The reversed array will be 2 5 4.
+- After first left rotation, arr[] = {2, 3, 1}
+- After second left rotation, arr[] = {3, 1, 2}
+- After third left rotation, arr[] = {1, 2, 3}
+- After fourth left rotation, arr[] = {2, 3, 1}
 
 ---
 
