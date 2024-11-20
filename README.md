@@ -29,6 +29,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 3   | Reverse an Array                                | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY3(Reverse%20an%20Array)>)           |
 | 4   | Rotate an Array by d - Counterclockwise or Left | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY4(Rotate%20Array)>)                 |
 | 5   | Next Permutation                                | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY5(Next%20Permutation)>)             |
+| 6   | Majority Element II                             | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY5(Majority%20Element%20II)>)        |
 | ... | ...                                             | ...                                                                                                          |
 
 ---
