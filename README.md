@@ -30,7 +30,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 4   | Rotate an Array by d - Counterclockwise or Left   | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY4(Rotate%20Array)>)                                                          |
 | 5   | Next Permutation                                  | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY5(Next%20Permutation)>)                                                      |
 | 6   | Majority Element II                               | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY6(Majority%20Element%20II)>)                                                 |
-| 7   | Stock Buy and Sell – Multiple Transaction Allowed | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY7(Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed))> |
+| 7   | Stock Buy and Sell – Multiple Transaction Allowed | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY7(Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed)>) |
 | ... | ...                                               | ...                                                                                                                                                   |
 
 ---
