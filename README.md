@@ -32,7 +32,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 6   | Majority Element II                               | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY6(Majority%20Element%20II)>)                                                  |
 | 7   | Stock Buy and Sell – Multiple Transaction Allowed | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY7(Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed)>)  |
 | 8   | Stock Buy and Sell – Max one Transaction Allowed  | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY8(Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed)>) |
-| 9   | Minimize the Heights II                           | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY6(Minimize%20the%20Heights%20II)>)                                            |
+| 9   | Minimize the Heights II                           | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY9(Minimize%20the%20Heights%20II)>)                                            |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---
