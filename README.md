@@ -35,6 +35,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 9   | Minimize the Heights II                           | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY9(Minimize%20the%20Heights%20II)>)                                            |
 | 10  | Kadane's Algorithm                                | [Solution](<https://github.com/MUKUNDKUMAR-G/GFG-160-Series/tree/main/DAY10(Kadane's%20Algorithm)>)                                                    |
 | 11  | Maximum Product Subarray                          | [Solution](<./DAY11(Maximum%20Product%20Subarray)/>)                                                                                                   |
+| 12  | Max Circular Subarray Sum                         | [Solution](<./DAY12(Max Circular Subarray Sum)/>)                                                                                                      |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---
