@@ -152,7 +152,7 @@ Nothing is read after -12 as a non-digit character ‘g’ was encountered.
 
 2.Skip Leading Whitespaces:
 
-    - Increment i until a non-space character is found.
+- Increment i until a non-space character is found.
 
 3. Check for Sign:
 
@@ -171,7 +171,7 @@ Nothing is read after -12 as a non-digit character ‘g’ was encountered.
 
 6.Return Result:
 
-    - Return num * sign.
+- Return num \* sign.
 
 ---
 
@@ -182,13 +182,6 @@ Nothing is read after -12 as a non-digit character ‘g’ was encountered.
 ```
 
 # Time Complexity
-
-Approach 1 :
-
-- Time complexity : O(n log n) - for sorting (n log n) and traversing the array once(n).
-- Space complexity : O(1) - No additional Data structure is used.
-
-Approach 2:
 
 - Time complexity : O(n) - where n is the length of the input string. The algorithm processes each character of the string once, making it linear in time complexity.
 - Space complexity : O(n) - using hashing technique to store only positive number
