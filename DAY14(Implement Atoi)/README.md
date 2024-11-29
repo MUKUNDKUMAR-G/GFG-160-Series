@@ -150,7 +150,7 @@ Nothing is read after -12 as a non-digit character ‘g’ was encountered.
 
    - Set an index i = 0, a sign = 1 (for positive numbers), and num = 0.
 
-2.Skip Leading Whitespaces:
+2. Skip Leading Whitespaces:
 
 - Increment i until a non-space character is found.
 
@@ -169,7 +169,7 @@ Nothing is read after -12 as a non-digit character ‘g’ was encountered.
 
    - Before adding a digit, ensure num will not exceed Integer.MAX_VALUE or go below Integer.MIN_VALUE.
 
-6.Return Result:
+6. Return Result:
 
 - Return num \* sign.
 
