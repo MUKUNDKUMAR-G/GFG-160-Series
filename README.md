@@ -42,6 +42,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 15  | Add Binary String                                 | [Solution](<./DAY15(Add%20Binary%20Strings)/>)                                                                                                         |
 | 16  | Anagram                                           | [Solution](<./DAY16(Anagram)/>)                                                                                                                        |
 | 17  | Non Repeating Character                           | [Solution](<./DAY17(Non%20Repeating%20Character)/>)                                                                                                    |
+| 18  | Search Pattern (KMP-Algorithm)                    | [Solution](<./DAY18(Search%20Pattern%20(KMP-Algorithm))/>)                                                                                             |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---
