@@ -44,6 +44,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 17  | Non Repeating Character                           | [Solution](<./DAY17(Non%20Repeating%20Character)/>)                                                                                                    |
 | 18  | Search Pattern (KMP-Algorithm)                    | [Solution](<./DAY18(Search%20Pattern%20(KMP-Algorithm))/>)                                                                                             |
 | 19  | Minimum Characters for Palindrome                 | [Solution](<./DAY19(Min%20Chars%20to%20Add%20for%20Palindrome)/>)                                                                                      |
+| 20  | Strings Rotations of Each Other                   | [Solution](<./DAY20(Strings%20Rotations%20of%20Each%20Other)/>)                                                                                        |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---
