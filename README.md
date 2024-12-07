@@ -48,6 +48,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | --- | Sorting: Organize Data Efficiently (Days 21–27)   | ----                                                                                                                                                   |
 | 21  | Sort 0s, 1s, and 2s 🔍                            | [Solution](<./DAY21(Sort%200s%2C%201s%2C%20and%202s)/>)                                                                                                |
 | 22  | Find H-Index📚                                    | [Solution](<./DAY22(H-Index%20Finder)/>)                                                                                                               |
+| 23  | Count Inversions 🧮                               | [Solution](<./DAY23(Count%20Inversions)/>)                                                                                                             |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---
