@@ -1,4 +1,4 @@
-# H-Index Finder 📚
+# Count Inversions 🧮  
 
 This task involves determining how "unsorted" an array is by calculating the Inversion Count. Two elements arr[i] and arr[j] form an inversion if arr[i]>arr[j] and 𝑖 < 𝑗.
 
