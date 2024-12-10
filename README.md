@@ -50,7 +50,8 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 22  | Find H-Index📚                                    | [Solution](<./DAY22(H-Index%20Finder)/>)                                                                                                               |
 | 23  | Count Inversions 🧮                               | [Solution](<./DAY23(Count%20Inversions)/>)                                                                                                             |
 | 24  | Overlapping Intervals 🕒                          | [Solution](<./DAY24(Overlapping%20Intervals)/>)                                                                                                        |
-| 24  | Insert Interval🕒                                 | [Solution](<./DAY25(Insert%20Interval)/>)                                                                                                              |
+| 25  | Insert Interval🕒                                 | [Solution](<./DAY25(Insert%20Interval)/>)                                                                                                              |
+| 26  | Non-overlapping Intervals                         | [Solution](<./DAY26(Non-overlapping%20Intervals)/>)                                                                                                    |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---

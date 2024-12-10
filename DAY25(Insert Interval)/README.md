@@ -1,4 +1,4 @@
-# Count Inversions 🧮
+# Insert Inteveral
 
 Geek needs to insert a new interval into a sorted list of non-overlapping intervals! Your mission is to help Geek maintain the sorted order while merging overlapping intervals seamlessly. Let’s dive into the world of intervals and make Geek proud! 🚀
 
