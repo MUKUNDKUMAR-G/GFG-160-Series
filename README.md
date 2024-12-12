@@ -53,6 +53,7 @@ The repository is organized day-wise, with each day's solution in its own folder
 | 25  | Insert Interval🕒                                 | [Solution](<./DAY25(Insert%20Interval)/>)                                                                                                              |
 | 26  | Non-overlapping Intervals                         | [Solution](<./DAY26(Non-overlapping%20Intervals)/>)                                                                                                    |
 | 27  | Merge Without Extra Space                         | [Solution](<./DAY27(Merge%20Without%20Extra%20Space)/>)                                                                                                |
+| 28  | Number of occurrence                              | [Solution](<./DAY28(Number%20of%20occurrence)/>)                                                                                                       |
 | ... | ...                                               | ...                                                                                                                                                    |
 
 ---
