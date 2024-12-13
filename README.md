@@ -71,11 +71,11 @@ Below is my progress, along with links to the solutions:
 
 ### Searching: Find What You Need Fast (Days 28–35)
 
-| Day | Problem              | Solution Link                                    |
-| --- | -------------------- | ------------------------------------------------ |
-| 28  | Number of occurrence | [Solution](<./DAY28(Number%20of%20occurrence)/>) |
-| ... | ......               | ......                                           |
-|     |                      |                                                  |
+| Day | Problem                    | Solution Link                                            |
+| --- | -------------------------- | -------------------------------------------------------- |
+| 28  | Number of occurrence       | [Solution](<./DAY28(Number%20of%20occurrence)/>)         |
+| 29  | Sorted and Rotated Minimum | [Solution](<./DAY29(Sorted%20and%20Rotated%20Minimum)/>) |
+|     |                            |                                                          |
 
 ---
 
