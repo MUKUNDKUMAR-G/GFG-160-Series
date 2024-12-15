@@ -76,6 +76,7 @@ Below is my progress, along with links to the solutions:
 | 28  | Number of occurrence           | [Solution](<./DAY28(Number%20of%20occurrence)/>)               |
 | 29  | Sorted and Rotated Minimum     | [Solution](<./DAY29(Sorted%20and%20Rotated%20Minimum)/>)       |
 | 30  | Search in Rotated Sorted Array | [Solution](<./DAY30(Search%20in%20Rotated%20Sorted%20Array)/>) |
+| 31  | Peek Element                   | [Solution](<./DAY31(Peak%20element)/>)                         |
 |     |                                |                                                                |
 
 ---
