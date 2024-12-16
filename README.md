@@ -71,13 +71,14 @@ Below is my progress, along with links to the solutions:
 
 ### Searching: Find What You Need Fast (Days 28–35)
 
-| Day | Problem                        | Solution Link                                                  |
-| --- | ------------------------------ | -------------------------------------------------------------- |
-| 28  | Number of occurrence           | [Solution](<./DAY28(Number%20of%20occurrence)/>)               |
-| 29  | Sorted and Rotated Minimum     | [Solution](<./DAY29(Sorted%20and%20Rotated%20Minimum)/>)       |
-| 30  | Search in Rotated Sorted Array | [Solution](<./DAY30(Search%20in%20Rotated%20Sorted%20Array)/>) |
-| 31  | Peek Element                   | [Solution](<./DAY31(Peak%20element)/>)                         |
-|     |                                |                                                                |
+| Day | Problem                           | Solution Link                                                       |
+| --- | --------------------------------- | ------------------------------------------------------------------- |
+| 28  | Number of occurrence              | [Solution](<./DAY28(Number%20of%20occurrence)/>)                    |
+| 29  | Sorted and Rotated Minimum        | [Solution](<./DAY29(Sorted%20and%20Rotated%20Minimum)/>)            |
+| 30  | Search in Rotated Sorted Array    | [Solution](<./DAY30(Search%20in%20Rotated%20Sorted%20Array)/>)      |
+| 31  | Peek Element                      | [Solution](<./DAY31(Peak%20element)/>)                              |
+| 32  | K-th Element of Two Sorted Arrays | [Solution](<./DAY32(K-th%20Element%20of%20Two%20Sorted%20Arrays)/>) |
+|     |                                   |                                                                     |
 
 ---
 
