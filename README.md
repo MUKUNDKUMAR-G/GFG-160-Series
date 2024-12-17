@@ -25,60 +25,61 @@ Below is my progress, along with links to the solutions:
 
 ### Arrays: Lay the Foundation (Days 1–13)
 
-| Day | Problem                                            | Solution Link                                                                                   |
-| --- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 01  | Second Largest Element                             | [Solution](<./DAY1(Second%20Largest%20Element)/>)                                               |
-| 02  | Move All Zeroes to End                             | [Solution](<./DAY2(Move%20All%20Zeroes%20to%20End)/>)                                           |
-| 03  | Reverse an Array                                   | [Solution](<./DAY3(Reverse%20an%20Array)/>)                                                     |
-| 04  | Rotate an Array by d (Counterclockwise or Left)    | [Solution](<./DAY4(Rotate%20Array)/>)                                                           |
-| 05  | Next Permutation                                   | [Solution](<./DAY5(Next%20Permutation)/>)                                                       |
-| 06  | Majority Element II                                | [Solution](<./DAY6(Majority%20Element%20II)/>)                                                  |
-| 07  | Stock Buy and Sell – Multiple Transactions Allowed | [Solution](<./DAY7(Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed)/>)  |
-| 08  | Stock Buy and Sell – Max One Transaction Allowed   | [Solution](<./DAY8(Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed)/>) |
-| 09  | Minimize the Heights II                            | [Solution](<./DAY9(Minimize%20the%20Heights%20II)/>)                                            |
-| 10  | Kadane's Algorithm                                 | [Solution](<./DAY10(Kadane's%20Algorithm)/>)                                                    |
-| 11  | Maximum Product Subarray                           | [Solution](<./DAY11(Maximum%20Product%20Subarray)/>)                                            |
-| 12  | Max Circular Subarray Sum                          | [Solution](<./DAY12(Max%20Circular%20Subarray%20Sum)/>)                                         |
-| 13  | Smallest Positive Missing Number                   | [Solution](<./DAY13(Smallest%20Positive%20Missing%20Number)/>)                                  |
+| Day | Problem                                            | Solution Link                                                                                                                          |
+| --- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | Second Largest Element                             | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY1(Second%20Largest%20Element)/>)                                               |
+| 02  | Move All Zeroes to End                             | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY2(Move%20All%20Zeroes%20to%20End)/>)                                           |
+| 03  | Reverse an Array                                   | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY3(Reverse%20an%20Array)/>)                                                     |
+| 04  | Rotate an Array by d (Counterclockwise or Left)    | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY4(Rotate%20Array)/>)                                                           |
+| 05  | Next Permutation                                   | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY5(Next%20Permutation)/>)                                                       |
+| 06  | Majority Element II                                | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY6(Majority%20Element%20II)/>)                                                  |
+| 07  | Stock Buy and Sell – Multiple Transactions Allowed | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY7(Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed)/>)  |
+| 08  | Stock Buy and Sell – Max One Transaction Allowed   | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY8(Stock%20Buy%20and%20Sell%20%E2%80%93%20Max%20one%20Transaction%20Allowed)/>) |
+| 09  | Minimize the Heights II                            | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY9(Minimize%20the%20Heights%20II)/>)                                            |
+| 10  | Kadane's Algorithm                                 | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY10(Kadane's%20Algorithm)/>)                                                    |
+| 11  | Maximum Product Subarray                           | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY11(Maximum%20Product%20Subarray)/>)                                            |
+| 12  | Max Circular Subarray Sum                          | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY12(Max%20Circular%20Subarray%20Sum)/>)                                         |
+| 13  | Smallest Positive Missing Number                   | [Solution](<./Arrays -Lay the Foundation (Days 1–13)/DAY13(Smallest%20Positive%20Missing%20Number)/>)                                  |
 
 ---
 
 ### Strings: Master Text Processing (Days 14–20)
 
-| Day | Problem                           | Solution Link                                                     |
-| --- | --------------------------------- | ----------------------------------------------------------------- |
-| 14  | Implement Atoi()                  | [Solution](<./DAY14(Implement%20Atoi)/>)                          |
-| 15  | Add Binary String                 | [Solution](<./DAY15(Add%20Binary%20Strings)/>)                    |
-| 16  | Anagram                           | [Solution](<./DAY16(Anagram)/>)                                   |
-| 17  | Non Repeating Character           | [Solution](<./DAY17(Non%20Repeating%20Character)/>)               |
-| 18  | Search Pattern (KMP Algorithm)    | [Solution](<./DAY18(Search%20Pattern%20(KMP-Algorithm))/>)        |
-| 19  | Minimum Characters for Palindrome | [Solution](<./DAY19(Min%20Chars%20to%20Add%20for%20Palindrome)/>) |
-| 20  | Strings Rotations of Each Other   | [Solution](<./DAY20(Strings%20Rotations%20of%20Each%20Other)/>)   |
+| Day | Problem                           | Solution Link                                                                                                   |
+| --- | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 14  | Implement Atoi()                  | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY14(Implement%20Atoi)/>)                          |
+| 15  | Add Binary String                 | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY15(Add%20Binary%20Strings)/>)                    |
+| 16  | Anagram                           | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY16(Anagram)/>)                                   |
+| 17  | Non Repeating Character           | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY17(Non%20Repeating%20Character)/>)               |
+| 18  | Search Pattern (KMP Algorithm)    | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY18(Search%20Pattern%20(KMP-Algorithm))/>)        |
+| 19  | Minimum Characters for Palindrome | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY19(Min%20Chars%20to%20Add%20for%20Palindrome)/>) |
+| 20  | Strings Rotations of Each Other   | [Solution](<./Strings - Master Text Processing (Days 14–20)/DAY20(Strings%20Rotations%20of%20Each%20Other)/>)   |
 
 ---
 
 ### Sorting: Organize Data Efficiently (Days 21–27)
 
-| Day | Problem                   | Solution Link                                           |
-| --- | ------------------------- | ------------------------------------------------------- |
-| 21  | Sort 0s, 1s, and 2s 🔍    | [Solution](<./DAY21(Sort%200s%2C%201s%2C%20and%202s)/>) |
-| 22  | Find H-Index📚            | [Solution](<./DAY22(H-Index%20Finder)/>)                |
-| 23  | Count Inversions 🧮       | [Solution](<./DAY23(Count%20Inversions)/>)              |
-| 24  | Overlapping Intervals 🕒  | [Solution](<./DAY24(Overlapping%20Intervals)/>)         |
-| 25  | SeInsert Interval🕒       | [Solution](<./DAY25(Insert%20Interval)/>)               |
-| 26  | Non-overlapping Intervals | [Solution](<./DAY26(Non-overlapping%20Intervals)/>)     |
-| 27  | Merge Without Extra Space | [Solution](<./DAY27(Merge%20Without%20Extra%20Space)/>) |
+| Day | Problem                   | Solution Link                                                                                            |
+| --- | ------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 21  | Sort 0s, 1s, and 2s 🔍    | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY21(Sort%200s%2C%201s%2C%20and%202s)/>) |
+| 22  | Find H-Index📚            | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY22(H-Index%20Finder)/>)                |
+| 23  | Count Inversions 🧮       | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY23(Count%20Inversions)/>)              |
+| 24  | Overlapping Intervals 🕒  | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY24(Overlapping%20Intervals)/>)         |
+| 25  | SeInsert Interval🕒       | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY25(Insert%20Interval)/>)               |
+| 26  | Non-overlapping Intervals | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY26(Non-overlapping%20Intervals)/>)     |
+| 27  | Merge Without Extra Space | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY27(Merge%20Without%20Extra%20Space)/>) |
 
 ### Searching: Find What You Need Fast (Days 28–35)
 
-| Day | Problem                           | Solution Link                                                       |
-| --- | --------------------------------- | ------------------------------------------------------------------- |
-| 28  | Number of occurrence              | [Solution](<./DAY28(Number%20of%20occurrence)/>)                    |
-| 29  | Sorted and Rotated Minimum        | [Solution](<./DAY29(Sorted%20and%20Rotated%20Minimum)/>)            |
-| 30  | Search in Rotated Sorted Array    | [Solution](<./DAY30(Search%20in%20Rotated%20Sorted%20Array)/>)      |
-| 31  | Peek Element                      | [Solution](<./DAY31(Peak%20element)/>)                              |
-| 32  | K-th Element of Two Sorted Arrays | [Solution](<./DAY32(K-th%20Element%20of%20Two%20Sorted%20Arrays)/>) |
-|     |                                   |                                                                     |
+| Day | Problem                           | Solution Link                                                                                                       |
+| --- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 28  | Number of occurrence              | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY28(Number%20of%20occurrence)/>)                    |
+| 29  | Sorted and Rotated Minimum        | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY29(Sorted%20and%20Rotated%20Minimum)/>)            |
+| 30  | Search in Rotated Sorted Array    | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY30(Search%20in%20Rotated%20Sorted%20Array)/>)      |
+| 31  | Peek Element                      | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY31(Peak%20element)/>)                              |
+| 32  | K-th Element of Two Sorted Arrays | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY32(K-th%20Element%20of%20Two%20Sorted%20Arrays)/>) |
+| 33  | Aggressive Cows                   | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY33(Aggressive%20Cows)/>)                           |
+|     |                                   |                                                                                                                     |
 
 ---
 
