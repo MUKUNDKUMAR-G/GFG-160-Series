@@ -79,6 +79,7 @@ Below is my progress, along with links to the solutions:
 | 31  | Peek Element                      | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY31(Peak%20element)/>)                              |
 | 32  | K-th Element of Two Sorted Arrays | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY32(K-th%20Element%20of%20Two%20Sorted%20Arrays)/>) |
 | 33  | Aggressive Cows                   | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY33(Aggressive%20Cows)/>)                           |
+| 34  | Allocate Minimum Pages            | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY34(Allocate%20Minimum%20Pages)>)                   |
 |     |                                   |                                                                                                                     |
 
 ---
