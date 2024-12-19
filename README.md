@@ -71,16 +71,17 @@ Below is my progress, along with links to the solutions:
 
 ### Searching: Find What You Need Fast (Days 28–35)
 
-| Day | Problem                           | Solution Link                                                                                                       |
-| --- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 28  | Number of occurrence              | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY28(Number%20of%20occurrence)/>)                    |
-| 29  | Sorted and Rotated Minimum        | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY29(Sorted%20and%20Rotated%20Minimum)/>)            |
-| 30  | Search in Rotated Sorted Array    | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY30(Search%20in%20Rotated%20Sorted%20Array)/>)      |
-| 31  | Peek Element                      | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY31(Peak%20element)/>)                              |
-| 32  | K-th Element of Two Sorted Arrays | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY32(K-th%20Element%20of%20Two%20Sorted%20Arrays)/>) |
-| 33  | Aggressive Cows                   | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY33(Aggressive%20Cows)/>)                           |
-| 34  | Allocate Minimum Pages            | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY34(Allocate%20Minimum%20Pages)>)                   |
-|     |                                   |                                                                                                                     |
+| Day | Problem                                        | Solution Link                                                                                                                               |
+| --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 28  | Number of occurrence                           | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY28(Number%20of%20occurrence)/>)                                            |
+| 29  | Sorted and Rotated Minimum                     | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY29(Sorted%20and%20Rotated%20Minimum)/>)                                    |
+| 30  | Search in Rotated Sorted Array                 | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY30(Search%20in%20Rotated%20Sorted%20Array)/>)                              |
+| 31  | Peek Element                                   | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY31(Peak%20element)/>)                                                      |
+| 32  | K-th Element of Two Sorted Arrays              | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY32(K-th%20Element%20of%20Two%20Sorted%20Arrays)/>)                         |
+| 33  | Aggressive Cows                                | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY33(Aggressive%20Cows)/>)                                                   |
+| 34  | Allocate Minimum Pages                         | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY34(Allocate%20Minimum%20Pages)>)                                           |
+| 35  | K-th Missing Positive Number in a Sorted Array | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY35(K%E2%80%93th%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array)>) |
+|     |                                                |                                                                                                                                             |
 
 ---
 
