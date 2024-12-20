@@ -69,6 +69,8 @@ Below is my progress, along with links to the solutions:
 | 26  | Non-overlapping Intervals | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY26(Non-overlapping%20Intervals)/>)     |
 | 27  | Merge Without Extra Space | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY27(Merge%20Without%20Extra%20Space)/>) |
 
+---
+
 ### Searching: Find What You Need Fast (Days 28–35)
 
 | Day | Problem                                        | Solution Link                                                                                                                               |
@@ -81,7 +83,16 @@ Below is my progress, along with links to the solutions:
 | 33  | Aggressive Cows                                | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY33(Aggressive%20Cows)/>)                                                   |
 | 34  | Allocate Minimum Pages                         | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY34(Allocate%20Minimum%20Pages)>)                                           |
 | 35  | K-th Missing Positive Number in a Sorted Array | [Solution](<./Searching- Find What You Need Fast (Days 28–35)/DAY35(K%E2%80%93th%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array)>) |
-|     |                                                |                                                                                                                                             |
+|     |                                                |
+
+---
+
+### Matrix: Unlock the Power of 2D Data (Days 36–41)
+
+| Day | Problem                         | Solution Link                                                                                                |
+| --- | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 36  | 🌪️ Spirally Traversing a Matrix | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY36(Spirally%20Traversing%20a%20Matrix)/>) |
+|     |                                 |                                                                                                              |
 
 ---
 
