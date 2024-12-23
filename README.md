@@ -89,11 +89,13 @@ Below is my progress, along with links to the solutions:
 
 ### Matrix: Unlock the Power of 2D Data (Days 36–41)
 
-| Day | Problem                                              | Solution Link                                                                                                |
-| --- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 36  | 🌪️ Spirally Traversing a Matrix                      | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY36(Spirally%20Traversing%20a%20Matrix)/>) |
-| 37  | 🌪️ 🔄 Rotate a Matrix by 90 Degrees (Anti-Clockwise) | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY37(Rotate%20by%2090%20degree)/>)          |
-|     |                                                      |                                                                                                              |
+| Day | Problem                                           | Solution Link                                                                                                                    |
+| --- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 36  | 🌪️ Spirally Traversing a Matrix                   | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY36(Spirally%20Traversing%20a%20Matrix)/>)                     |
+| 37  | 🔄 Rotate a Matrix by 90 Degrees (Anti-Clockwise) | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY37(Rotate%20by%2090%20degree)/>)                              |
+| 38  | 🔍 Search in a Row-Column Sorted Matrix           | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY38(Search%20in%20a%20row%E2%80%93Column%20Sorted%20Matrix)/>) |
+| 39  | Search in a Row-Wise Sorted Matrix                | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY39(Search%20in%20a%20Row%20Wise%20Sorted%20Matrix%20)/>)      |
+|     |                                                   |                                                                                                                                  |
 
 ---
 
