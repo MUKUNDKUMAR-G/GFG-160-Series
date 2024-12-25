@@ -96,6 +96,7 @@ Below is my progress, along with links to the solutions:
 | 38  | 🔍 Search in a Row-Column Sorted Matrix           | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY38(Search%20in%20a%20row%E2%80%93Column%20Sorted%20Matrix)/>) |
 | 39  | Search in a Row-Wise Sorted Matrix                | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY39(Search%20in%20a%20Row%20Wise%20Sorted%20Matrix%20)/>)      |
 | 40  | Search in a sorted Matrix                         | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY40(Search%20in%20a%20sorted%20Matrix)/>)                      |
+| 41  | Set Matrix Zeroes                                 | [Solution](<./Matrix - Unlock the Power of 2D Data (Days 36–41)/DAY41(Set%20Matrix%20Zeroes)/>)                                  |
 |     |                                                   |                                                                                                                                  |
 
 ---
