@@ -101,6 +101,14 @@ Below is my progress, along with links to the solutions:
 
 ---
 
+### Hashing Unlock Data Relationships (Days 42–49)
+
+| DAY | Problem                       | Solution Link                                                                                                   |
+| --- | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 42  | Two Sum - Pair with Given Sum | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/Two%20Sum%20Pair%20with%20Given%20Sum/>) |
+
+---
+
 ## 🛠️ How to Use
 
 1. Clone this repository:
