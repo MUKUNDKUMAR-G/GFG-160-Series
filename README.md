@@ -103,11 +103,12 @@ Below is my progress, along with links to the solutions:
 
 ### Hashing Unlock Data Relationships (Days 42–49)
 
-| DAY | Problem                         | Solution Link                                                                                                          |
-| --- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 42  | Two Sum - Pair with Given Sum   | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY42(Two%20Sum%20Pair%20with%20Given%20Sum)/>) |
-| 43  | Count Pairs with Given Sum      | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY43(Count%20Pairs%20with%20Given%20Sum)/>)    |
-| 44  | Find All Triplets with Zero Sum | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY44(Find All Triplets with Zero Sum)/>)       |
+| DAY | Problem                                            | Solution Link                                                                                                                       |
+| --- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 42  | Two Sum - Pair with Given Sum                      | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY42(Two%20Sum%20Pair%20with%20Given%20Sum)/>)              |
+| 43  | Count Pairs with Given Sum                         | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY43(Count%20Pairs%20with%20Given%20Sum)/>)                 |
+| 44  | Find All Triplets with Zero Sum                    | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY44(Find All Triplets with Zero Sum)/>)                    |
+| 45  | Intersection of Two Arrays with Duplicate Elements | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY45(Intersection of Two Arrays with Duplicate Elements)/>) |
 
 ---
 
