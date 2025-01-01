@@ -111,6 +111,7 @@ Below is my progress, along with links to the solutions:
 | 45  | Intersection of Two Arrays with Duplicate Elements | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY45(Intersection of Two Arrays with Duplicate Elements)/>) |
 | 46  | Union of Arrays with Duplicates                    | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY46(Union of Arrays with Duplicates)/>)                    |
 | 47  | Longest Consecutive Subsequence                    | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY47(Longest Consecutive Subsequence)/>)                    |
+| 48  | Print Anagrams Together                            | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY48(Print Anagrams Together)/>)                            |
 
 ---
 
