@@ -113,6 +113,7 @@ Below is my progress, along with links to the solutions:
 | 47  | Longest Consecutive Subsequence                    | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY47(Longest Consecutive Subsequence)/>)                    |
 | 48  | Print Anagrams Together                            | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY48(Print Anagrams Together)/>)                            |
 | 49  | Subarrays with sum K                               | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY49(Subarrays with sum K)/>)                               |
+| 50  | Count Subarrays with given XOR                     | [Solution](<./Hashing%20Unlock%20Data%20Relationships%20(Days%2042–49)/DAY50(Count Subarrays with given XOR)/>)                     |
 
 ---
 
