@@ -117,6 +117,12 @@ Below is my progress, along with links to the solutions:
 
 ---
 
+### Two Pointer Technique: Simplify Complex Problems (Days 51–61)
+
+| DAY | Problem                                           | Solution Link                                                                                                                             |
+| --- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 51  | Count all triplets with given sum in sorted array | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY51(Count all triplets with given sum in sorted array)/>) |
+
 ## 🛠️ How to Use
 
 1. Clone this repository:
