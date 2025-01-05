@@ -122,6 +122,7 @@ Below is my progress, along with links to the solutions:
 | DAY | Problem                                           | Solution Link                                                                                                                             |
 | --- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | 51  | Count all triplets with given sum in sorted array | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY51(Count all triplets with given sum in sorted array)/>) |
+| 52  | Count Pairs whose sum is less than target         | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY52(Count Pairs whose sum is less than target)/>)         |
 
 ## 🛠️ How to Use
 

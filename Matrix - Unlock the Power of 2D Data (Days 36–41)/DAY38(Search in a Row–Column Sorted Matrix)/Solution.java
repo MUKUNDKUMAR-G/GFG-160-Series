@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 class Solution {
     public static boolean matSearch(int mat[][], int x) {
