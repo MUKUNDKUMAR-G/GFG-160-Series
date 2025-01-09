@@ -126,6 +126,7 @@ Below is my progress, along with links to the solutions:
 | 53  | Sum Pair Closest to Target                        | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY53(Sum Pair Closest to Target)/>)                        |
 | 54  | Pair with given sum in a sorted array             | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY54(Pair with given sum in a sorted array)/>)             |
 | 55  | Count the number of possible triangles            | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY55(Count the number of possible triangles)/>)            |
+| 56  | Indexes of Subarray Sum                           | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY56(Indexes of Subarray Sum)/>)                           |
 
 ## 🛠️ How to Use
 
