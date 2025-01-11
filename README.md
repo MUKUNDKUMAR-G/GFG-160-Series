@@ -128,6 +128,7 @@ Below is my progress, along with links to the solutions:
 | 55  | Count the number of possible triangles            | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY55(Count the number of possible triangles)/>)            |
 | 56  | Indexes of Subarray Sum                           | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY56(Indexes of Subarray Sum)/>)                           |
 | 57  | Count Distinct Elements in Every Window           | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY57(Count Distinct Elements in Every Window)/>)           |
+| 58  | Longest Substring with Distinct Characters        | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY58(Longest Substring with Distinct Characters)/>)        |
 
 ## 🛠️ How to Use
 
