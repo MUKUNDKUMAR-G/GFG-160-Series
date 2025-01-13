@@ -130,6 +130,7 @@ Below is my progress, along with links to the solutions:
 | 57  | Count Distinct Elements in Every Window           | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY57(Count Distinct Elements in Every Window)/>)           |
 | 58  | Longest Substring with Distinct Characters        | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY58(Longest Substring with Distinct Characters)/>)        |
 | 59  | Trapping Rain Water                               | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY59(Trapping Rain Water)/>)                               |
+| 60  | Container With Most Water                         | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY60(Container With Most Water)/>)                         |
 
 ## 🛠️ How to Use
 
