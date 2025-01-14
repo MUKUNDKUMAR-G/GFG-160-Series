@@ -132,6 +132,14 @@ Below is my progress, along with links to the solutions:
 | 59  | Trapping Rain Water                               | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY59(Trapping Rain Water)/>)                               |
 | 60  | Container With Most Water                         | [Solution](<./Two Pointer Technique -  Simplify Complex Problems (Days 51–61)/DAY60(Container With Most Water)/>)                         |
 
+---
+
+### Prefix Sum - Solve Cumulative Problems (Days 62–66)
+
+| DAY | Problem           | Solution Link                                                                                 |
+| --- | ----------------- | --------------------------------------------------------------------------------------------- |
+| 61  | Equilibrium Point | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)\DAY61(Equilibrium Point)/>) |
+
 ## 🛠️ How to Use
 
 1. Clone this repository:
