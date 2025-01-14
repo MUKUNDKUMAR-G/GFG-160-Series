@@ -138,7 +138,7 @@ Below is my progress, along with links to the solutions:
 
 | DAY | Problem           | Solution Link                                                                                 |
 | --- | ----------------- | --------------------------------------------------------------------------------------------- |
-| 61  | Equilibrium Point | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)\DAY61(Equilibrium Point)/>) |
+| 61  | Equilibrium Point | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)/DAY61(Equilibrium Point)/>) |
 
 ## 🛠️ How to Use
 
