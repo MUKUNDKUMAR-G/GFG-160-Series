@@ -136,9 +136,10 @@ Below is my progress, along with links to the solutions:
 
 ### Prefix Sum - Solve Cumulative Problems (Days 62–66)
 
-| DAY | Problem           | Solution Link                                                                                 |
-| --- | ----------------- | --------------------------------------------------------------------------------------------- |
-| 61  | Equilibrium Point | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)/DAY61(Equilibrium Point)/>) |
+| DAY | Problem                     | Solution Link                                                                                           |
+| --- | --------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 61  | Equilibrium Point           | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)/DAY61(Equilibrium Point)/>)           |
+| 62  | Longest Subarray with Sum K | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)/DAY62(Longest Subarray with Sum K)/>) |
 
 ## 🛠️ How to Use
 
