@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class Solution {
     public int countTriplets(int[] arr, int target) {
         int n = arr.length;

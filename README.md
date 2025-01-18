@@ -143,6 +143,16 @@ Below is my progress, along with links to the solutions:
 | 63  | Largest subarray of 0's and 1's | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)/DAY63(Largest subarray of 0's and 1's)/>) |
 | 64  | Product Array Puzzle            | [Solution](<./Prefix Sum - Solve Cumulative Problems (Days 62–66)/DAY64(Product Array Puzzle)/>)            |
 
+---
+
+### Linked List: Manage Dynamic Data (Days 67–76)
+
+| DAY | Problem               | Solution Link                                                                                |
+| --- | --------------------- | -------------------------------------------------------------------------------------------- |
+| 65  | Reverse a linked list | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY65(Reverse a linked list)/>) |
+
+---
+
 ## 🛠️ How to Use
 
 1. Clone this repository:

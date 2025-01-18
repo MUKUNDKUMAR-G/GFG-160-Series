@@ -37,5 +37,7 @@ public class Solution{
         }
 
         System.out.println("Second Largest Element is :" + print2largest(arr));
+
+        input.close();
     }
 }
