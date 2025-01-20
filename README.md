@@ -147,10 +147,11 @@ Below is my progress, along with links to the solutions:
 
 ### Linked List: Manage Dynamic Data (Days 67–76)
 
-| DAY | Problem               | Solution Link                                                                                |
-| --- | --------------------- | -------------------------------------------------------------------------------------------- |
-| 65  | Reverse a linked list | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY65(Reverse a linked list)/>) |
-| 66  | Rotate a Linked List  | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY66(Rotate a Linked List)/>)  |
+| DAY | Problem                       | Solution Link                                                                                        |
+| --- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 65  | Reverse a linked list         | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY65(Reverse a linked list)/>)         |
+| 66  | Rotate a Linked List          | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY66(Rotate a Linked List)/>)          |
+| 67  | Merge Two Sorted Linked Lists | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY67(Merge Two Sorted Linked Lists)/>) |
 
 ---
 
