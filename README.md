@@ -153,6 +153,7 @@ Below is my progress, along with links to the solutions:
 | 66  | Rotate a Linked List          | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY66(Rotate a Linked List)/>)          |
 | 67  | Merge Two Sorted Linked Lists | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY67(Merge Two Sorted Linked Lists)/>) |
 | 68  | Linked List Group Reverse     | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY68(Linked List Group Reverse)/>)     |
+| 69  | Add Number Linked Lists       | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY69(Add Number Linked Lists)/>)       |
 
 ---
 
