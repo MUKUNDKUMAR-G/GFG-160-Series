@@ -155,6 +155,7 @@ Below is my progress, along with links to the solutions:
 | 68  | Linked List Group Reverse       | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY68(Linked List Group Reverse)/>)       |
 | 69  | Add Number Linked Lists         | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY69(Add Number Linked Lists)/>)         |
 | 70  | Clone List with Next and Random | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY70(Clone List with Next and Random)/>) |
+| 71  | Detect Loop in Linked List      | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY71(Detect Loop in Linked List)/>)      |
 
 ---
 
