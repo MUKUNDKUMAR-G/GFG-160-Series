@@ -157,6 +157,7 @@ Below is my progress, along with links to the solutions:
 | 70  | Clone List with Next and Random            | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY70(Clone List with Next and Random)/>)            |
 | 71  | Detect Loop in Linked List                 | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY71(Detect Loop in Linked List)/>)                 |
 | 72  | Find the first node of loop in linked list | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY72(Find the first node of loop in linked list)/>) |
+| 73  | Remove Loop in Linked List                 | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY73(Remove Loop in Linked List)/>)                 |
 
 ---
 
