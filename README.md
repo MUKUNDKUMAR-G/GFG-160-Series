@@ -1,29 +1,50 @@
-# GFG 160 Series Challenge 🚀
+# 🚀 **GFG 160 Series Challenge: A Journey Through Algorithms and Data Structures** 🚀
 
-This repository contains my Java solutions for the [GFG 160 Series Challenge](https://www.geeksforgeeks.org/courses/gfg-160-series) organized by **GeeksforGeeks**. Through this challenge, I aim to enhance my problem-solving skills and deepen my understanding of core algorithms and data structures.
+Welcome to my **GFG 160 Series Challenge** repository! This is not just a collection of solutions—it's a **story of growth, learning, and problem-solving mastery**. Through this challenge, I’ve tackled 160 handpicked problems to sharpen my skills in algorithms, data structures, and efficient coding practices.
 
----
-
-## 📖 About the Challenge
-
-The **GFG 160 Series** is a set of handpicked problems designed to challenge and build expertise in computer science concepts, algorithms, and data structures. This repository serves as a record of my journey and progress.
+This repository is a **treasure trove of well-documented solutions**, **intuitive explanations**, and **practical insights** for anyone looking to level up their coding game. Let’s dive in!
 
 ---
 
-## 🗂️ Repository Structure
+## 🌟 **Why This Repository?**
 
-The repository is organized day-wise, with each day's solution in its own folder:
-
-- **DayX/** folders contain the Java solution(s) for that day.
-- Each file is named descriptively for easy reference.
+- **Structured Learning**: Problems are categorized by topic, making it easy to focus on specific areas like arrays, strings, sorting, hashing, and more.
+- **Detailed Explanations**: Each solution comes with a **clear explanation** of the approach, **time and space complexity analysis**, and **intuition** behind the solution.
+- **Interactive Progress Tracker**: Track my progress day by day, with links to solutions and problem descriptions.
+- **User-Friendly**: Solutions are written in **Java**, with clean, readable code and comments for better understanding.
 
 ---
 
-## 📅 Progress Tracker
+## 🗂️ **Repository Structure**
 
-Below is my progress, along with links to the solutions:
+The repository is organized into **folders** based on problem categories and **days**. Each folder contains:
 
-### Arrays: Lay the Foundation (Days 1–13)
+- **Java Solution Files**: Named descriptively for easy reference.
+- **Problem Descriptions**: Brief explanations of the problem and approach.
+
+Here’s a sneak peek into the structure:
+
+```
+GFG-160-Series/
+├── Arrays - Lay the Foundation (Days 1–13)/
+├── Strings - Master Text Processing (Days 14–20)/
+├── Sorting - Organize Data Efficiently (Days 21–27)/
+├── Searching - Find What You Need Fast (Days 28–35)/
+├── Matrix - Unlock the Power of 2D Data (Days 36–41)/
+├── Hashing - Unlock Data Relationships (Days 42–49)/
+├── Two Pointer Technique - Simplify Complex Problems (Days 51–61)/
+├── Prefix Sum - Solve Cumulative Problems (Days 62–66)/
+├── Linked List - Manage Dynamic Data (Days 67–76)/
+└── README.md
+```
+
+---
+
+## 🚀 **Progress Tracker**
+
+Here’s a snapshot of my progress so far. Each problem is linked to its solution for easy navigation.
+
+> ### **Arrays: Lay the Foundation (Days 1–13)**
 
 | Day | Problem                                            | Solution Link                                                                                                                          |
 | --- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +64,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Strings: Master Text Processing (Days 14–20)
+> ### **Strings: Master Text Processing (Days 14–20)**
 
 | Day | Problem                           | Solution Link                                                                                                   |
 | --- | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +78,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Sorting: Organize Data Efficiently (Days 21–27)
+> ### **Sorting: Organize Data Efficiently (Days 21–27)**
 
 | Day | Problem                   | Solution Link                                                                                            |
 | --- | ------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -65,13 +86,13 @@ Below is my progress, along with links to the solutions:
 | 22  | Find H-Index📚            | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY22(H-Index%20Finder)/>)                |
 | 23  | Count Inversions 🧮       | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY23(Count%20Inversions)/>)              |
 | 24  | Overlapping Intervals 🕒  | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY24(Overlapping%20Intervals)/>)         |
-| 25  | SeInsert Interval🕒       | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY25(Insert%20Interval)/>)               |
+| 25  | Insert Interval🕒         | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY25(Insert%20Interval)/>)               |
 | 26  | Non-overlapping Intervals | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY26(Non-overlapping%20Intervals)/>)     |
 | 27  | Merge Without Extra Space | [Solution](<./Sorting - Organize Data Efficiently (Days 21–27)/DAY27(Merge%20Without%20Extra%20Space)/>) |
 
 ---
 
-### Searching: Find What You Need Fast (Days 28–35)
+> ### **Searching: Find What You Need Fast (Days 28–35)**
 
 | Day | Problem                                        | Solution Link                                                                                                                               |
 | --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -87,7 +108,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Matrix: Unlock the Power of 2D Data (Days 36–41)
+> ### **Matrix: Unlock the Power of 2D Data (Days 36–41)**
 
 | Day | Problem                                           | Solution Link                                                                                                                    |
 | --- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -101,7 +122,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Hashing Unlock Data Relationships (Days 42–49)
+> ### **Hashing Unlock Data Relationships (Days 42–49)**
 
 | DAY | Problem                                            | Solution Link                                                                                                                       |
 | --- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,7 +138,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Two Pointer Technique: Simplify Complex Problems (Days 51–61)
+> ### **Two Pointer Technique: Simplify Complex Problems (Days 51–61)**
 
 | DAY | Problem                                           | Solution Link                                                                                                                             |
 | --- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -134,7 +155,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Prefix Sum - Solve Cumulative Problems (Days 62–66)
+> ### **Prefix Sum - Solve Cumulative Problems (Days 62–66)**
 
 | DAY | Problem                         | Solution Link                                                                                               |
 | --- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -145,7 +166,7 @@ Below is my progress, along with links to the solutions:
 
 ---
 
-### Linked List: Manage Dynamic Data (Days 67–76)
+> ### **Linked List: Manage Dynamic Data (Days 67–76)**
 
 | DAY | Problem                                    | Solution Link                                                                                                     |
 | --- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -160,31 +181,63 @@ Below is my progress, along with links to the solutions:
 | 73  | Remove Loop in Linked List                 | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY73(Remove Loop in Linked List)/>)                 |
 | 74  | LRU Cache                                  | [Solution](<./Linked List - Manage Dynamic Data (Days 67–76)/DAY74(LRU Cache)/>)                                  |
 
+> ### **Recursion and Backtracking**
+
+| DAY | Problem                  | Solution Link                                                                 |
+| --- | ------------------------ | ----------------------------------------------------------------------------- |
+| 75  | Permutations of a String | [Solution](<./Recursion and Backtracking/DAY75(Recursion and Backtracking)/>) |
+
 ---
 
-## 🛠️ How to Use
+## 🛠️ **How to Use This Repository**
 
-1. Clone this repository:
+1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/MUKUNDKUMAR-G/GFG-160-Series.git
    ```
-2. Navigate to the relevant day's folder to view the solution.
 
-3. Compile and run the code using the following commands:
+2. **Navigate to the Relevant Folder**:  
+   Each problem is organized by category and day.
 
-```bash
-javac problem1_solution.java
-java problem1_solution
-```
+3. **Compile and Run the Code**:  
+   Use the following commands to compile and run the Java solutions:
+   ```bash
+   javac problem1_solution.java
+   java problem1_solution
+   ```
 
-## 🌟 Acknowledgments
+---
 
-Thanks to GeeksforGeeks for organizing such an engaging challenge that helps build problem-solving skills.
+## 🌟 **What Makes This Repository Special?**
 
-## 📬 Contact
+- **Optimized Solutions**: Every solution is optimized for **time and space complexity**.
+- **Interactive Learning**: Problems are categorized and linked for easy navigation.
+- **Real-World Applications**: Learn how these algorithms and data structures are used in real-world scenarios.
 
-Feel free to reach out if you have suggestions or find improvements in my solutions:
+---
 
-GitHub: MUKUNDKUMAR-G
+## 🚀 **Let’s Connect!**
 
-LinkedIn: Mukund Kumar
+If you find this repository helpful, feel free to **star ⭐ it** and **fork** it for your own learning journey. Let’s connect and grow together!
+
+- **GitHub**: [MUKUNDKUMAR-G](https://github.com/MUKUNDKUMAR-G)
+- **LinkedIn**: [Mukund Kumar](https://www.linkedin.com/in/mukundkumar-g/)
+
+---
+
+## 🌟 **Acknowledgments**
+
+A big shoutout to **GeeksforGeeks** for organizing this incredible challenge and providing a platform to learn and grow.
+
+---
+
+## 🎯 **Final Thoughts**
+
+This repository is more than just a collection of solutions—it’s a **testament to perseverance, curiosity, and the joy of problem-solving**. Whether you’re a beginner or an experienced coder, I hope this repository inspires you to tackle challenges head-on and keep learning.
+
+Let’s code, learn, and grow together! 🚀
+
+---
+
+**Happy Coding!** 😄
