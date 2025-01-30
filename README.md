@@ -187,6 +187,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | --- | ------------------------ | ----------------------------------------------------------------------------- |
 | 75  | Permutations of a String | [Solution](<./Recursion and Backtracking/DAY75(Recursion and Backtracking)/>) |
 | 76  | Implement Pow            | [Solution](<./Recursion and Backtracking/DAY76(Implement Pow)/>)              |
+| 77  | N-Queen Problem          | [Solution](<./Recursion and Backtracking/DAY77(N-Queen Problem)/>)            |
 
 ---
 
