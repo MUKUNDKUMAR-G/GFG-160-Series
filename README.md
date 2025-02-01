@@ -44,7 +44,7 @@ GFG-160-Series/
 
 Here’s a snapshot of my progress so far. Each problem is linked to its solution for easy navigation.
 
-> ### **Arrays: Lay the Foundation (Days 1–13)**
+> ### **Arrays: Lay the Foundation**
 
 | Day | Problem                                            | Solution Link                                                                                                                          |
 | --- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Strings: Master Text Processing (Days 14–20)**
+> ### **Strings: Master Text Processing**
 
 | Day | Problem                           | Solution Link                                                                                                   |
 | --- | --------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -78,7 +78,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Sorting: Organize Data Efficiently (Days 21–27)**
+> ### **Sorting: Organize Data Efficiently**
 
 | Day | Problem                   | Solution Link                                                                                            |
 | --- | ------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -92,7 +92,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Searching: Find What You Need Fast (Days 28–35)**
+> ### **Searching: Find What You Need Fast**
 
 | Day | Problem                                        | Solution Link                                                                                                                               |
 | --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -108,7 +108,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Matrix: Unlock the Power of 2D Data (Days 36–41)**
+> ### **Matrix: Unlock the Power of 2D Data**
 
 | Day | Problem                                           | Solution Link                                                                                                                    |
 | --- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Hashing Unlock Data Relationships (Days 42–49)**
+> ### **Hashing Unlock Data Relationships**
 
 | DAY | Problem                                            | Solution Link                                                                                                                       |
 | --- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,7 +138,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Two Pointer Technique: Simplify Complex Problems (Days 51–61)**
+> ### **Two Pointer Technique: Simplify Complex Problems**
 
 | DAY | Problem                                           | Solution Link                                                                                                                             |
 | --- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -155,7 +155,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Prefix Sum - Solve Cumulative Problems (Days 62–66)**
+> ### **Prefix Sum - Solve Cumulative Problems**
 
 | DAY | Problem                         | Solution Link                                                                                               |
 | --- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -166,7 +166,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 
 ---
 
-> ### **Linked List: Manage Dynamic Data (Days 67–76)**
+> ### **Linked List: Manage Dynamic Data**
 
 | DAY | Problem                                    | Solution Link                                                                                                     |
 | --- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -189,6 +189,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 76  | Implement Pow            | [Solution](<./Recursion and Backtracking/DAY76(Implement Pow)/>)              |
 | 77  | N-Queen Problem          | [Solution](<./Recursion and Backtracking/DAY77(N-Queen Problem)/>)            |
 | 78  | Solve the Sudoku         | [Solution](<./Recursion and Backtracking/DAY78(Solve the Sudoku)/>)           |
+| 78  | Word Search              | [Solution](<./Recursion and Backtracking/DAY79(Word Search)/>)                |
 
 ---
 
