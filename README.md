@@ -189,7 +189,13 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 76  | Implement Pow            | [Solution](<./Recursion and Backtracking/DAY76(Implement Pow)/>)              |
 | 77  | N-Queen Problem          | [Solution](<./Recursion and Backtracking/DAY77(N-Queen Problem)/>)            |
 | 78  | Solve the Sudoku         | [Solution](<./Recursion and Backtracking/DAY78(Solve the Sudoku)/>)           |
-| 78  | Word Search              | [Solution](<./Recursion and Backtracking/DAY79(Word Search)/>)                |
+| 79  | Word Search              | [Solution](<./Recursion and Backtracking/DAY79(Word Search)/>)                |
+
+> ### **TREE**
+
+| DAY | Problem               | Solution Link                                 |
+| --- | --------------------- | --------------------------------------------- |
+| 80  | Level order traversal | [Solution](./Tree/Level%20order%20traversal/) |
 
 ---
 
