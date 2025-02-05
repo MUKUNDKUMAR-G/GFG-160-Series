@@ -198,6 +198,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 80  | Level order traversal     | [Solution](<./Tree/DAY80(Level%20order%20traversal)/>)   |
 | 81  | Height of Binary Tree     | [Solution](<./Tree/DAY81(Height%20of%20Binary%20Tree)/>) |
 | 82  | Diameter of a Binary Tree | [Solution](<./Tree/DAY82(Diameter of a Binary Tree)/>)   |
+| 83  | Mirror Tree               | [Solution](<./Tree/DAY83(Mirror Tree)/>)                 |
 
 ---
 

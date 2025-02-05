@@ -14,38 +14,29 @@ class Solution {
     Node root;
     Map<Integer, Node> nodeMap = new HashMap<>();
 
-    public ArrayList<ArrayList<Integer>> levelOrder(Node root) {
-        ArrayList<ArrayList<Integer>> result = new ArrayList<>();
+    // Function to convert a binary tree into its mirror tree.
+    void mirror(Node node) {
+        if (node == null) return;
 
-        if (root == null) return result;
+        // Swap left and right
+        Node temp = node.left;
+        node.left = node.right;
+        node.right = temp;
 
-        Queue<Node> queue = new LinkedList<>();
-        queue.add(root);
-
-        while (!queue.isEmpty()) {
-            int n = queue.size();
-            ArrayList<Integer> level = new ArrayList<>();
-
-            while (n-- > 0) {
-                Node peek = queue.poll();
-
-                level.add(peek.data);
-
-                if (peek.left != null) {
-                    queue.add(peek.left);
-                }
-
-                if (peek.right != null) {
-                    queue.add(peek.right);
-                }
-            }
-
-            result.add(level);
-        }
-
-        return result;
+        // Recur for left and right subtrees
+        mirror(node.left);
+        mirror(node.right);
     }
 
+    // Function for in-order traversal
+    void inOrder(Node node) {
+        if (node == null) return;
+        inOrder(node.left);
+        System.out.print(node.data + " ");
+        inOrder(node.right);
+    }
+
+    // Function to insert nodes into the tree
     void insert(int parent, int child, char dir) {
         Node parentNode = nodeMap.getOrDefault(parent, new Node(parent));
         nodeMap.put(parent, parentNode);
@@ -64,9 +55,11 @@ class Solution {
         }
     }
 
+    // Driver function to take user input
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Solution tree = new Solution();
+
         System.out.println("Enter number of nodes:");
         int n = sc.nextInt();
 
@@ -78,9 +71,11 @@ class Solution {
             tree.insert(parent, child, dir);
         }
 
-        ArrayList<ArrayList<Integer>> result = tree.levelOrder(tree.root);
+        tree.mirror(tree.root);
 
-        System.out.println("Level Order Traversal: " + result);
+
+        System.out.println("In-order Traversal of Mirror Tree:");
+        tree.inOrder(tree.root);
         sc.close();
     }
 }

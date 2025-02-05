@@ -11,9 +11,10 @@ class Node {
     }
 }
 
-// Class representing the Binary Tree
-class BinaryTree {
+
+class Solution {
     Node root;
+    Map<Integer, Node> nodeMap = new HashMap<>();
 
     // Function to find the height of a binary tree.
     int height(Node node) {
@@ -23,36 +24,27 @@ class BinaryTree {
         return Math.max(height(node.left), height(node.right)) + 1;
     }
 
-    // Function to insert nodes into the tree
     void insert(int parent, int child, char dir) {
-        if (root == null) {
-            root = new Node(parent);
-        }
+        Node parentNode = nodeMap.getOrDefault(parent, new Node(parent));
+        nodeMap.put(parent, parentNode);
 
-        HashMap<Integer, Node> nodeMap = new HashMap<>();
-        nodeMap.put(root.data, root);
-
-        if (!nodeMap.containsKey(parent)) {
-            nodeMap.put(parent, new Node(parent));
-        }
-        if (!nodeMap.containsKey(child)) {
-            nodeMap.put(child, new Node(child));
-        }
-
-        Node parentNode = nodeMap.get(parent);
-        Node childNode = nodeMap.get(child);
+        Node childNode = nodeMap.getOrDefault(child, new Node(child));
+        nodeMap.put(child, childNode);
 
         if (dir == 'L') {
             parentNode.left = childNode;
         } else {
             parentNode.right = childNode;
         }
+
+        if (root == null) {
+            root = parentNode;
+        }
     }
 
-    // Driver function to take user input
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        BinaryTree tree = new BinaryTree();
+        Solution tree = new Solution();
 
         System.out.println("Enter number of nodes:");
         int n = sc.nextInt();

@@ -10,9 +10,10 @@ class Node {
     }
 }
 
-class BinaryTree {
+class Solution {
     Node root;
-
+    Map<Integer, Node> nodeMap = new HashMap<>();
+    
     // Class to store diameter
     static class TreeInfo {
         int height;
@@ -46,33 +47,26 @@ class BinaryTree {
     }
 
     void insert(int parent, int child, char dir) {
-        if (root == null) {
-            root = new Node(parent);
-        }
+        Node parentNode = nodeMap.getOrDefault(parent, new Node(parent));
+        nodeMap.put(parent, parentNode);
 
-        HashMap<Integer, Node> nodeMap = new HashMap<>();
-        nodeMap.put(root.data, root);
-
-        if (!nodeMap.containsKey(parent)) {
-            nodeMap.put(parent, new Node(parent));
-        }
-        if (!nodeMap.containsKey(child)) {
-            nodeMap.put(child, new Node(child));
-        }
-
-        Node parentNode = nodeMap.get(parent);
-        Node childNode = nodeMap.get(child);
+        Node childNode = nodeMap.getOrDefault(child, new Node(child));
+        nodeMap.put(child, childNode);
 
         if (dir == 'L') {
             parentNode.left = childNode;
         } else {
             parentNode.right = childNode;
         }
+
+        if (root == null) {
+            root = parentNode;
+        }
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        BinaryTree tree = new BinaryTree();
+        Solution tree = new Solution();
 
         System.out.println("Enter number of nodes:");
         int n = sc.nextInt();
