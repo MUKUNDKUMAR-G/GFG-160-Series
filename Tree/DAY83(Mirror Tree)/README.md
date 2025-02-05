@@ -151,40 +151,6 @@ class BinaryTree {
         mirror(node.left);
         mirror(node.right);
     }
-
-    // Function for in-order traversal
-    void inOrder(Node node) {
-        if (node == null) return;
-        inOrder(node.left);
-        System.out.print(node.data + " ");
-        inOrder(node.right);
-    }
-
-    // Function to insert nodes into the tree
-    void insert(int parent, int child, char dir) {
-        if (root == null) {
-            root = new Node(parent);
-        }
-
-        HashMap<Integer, Node> nodeMap = new HashMap<>();
-        nodeMap.put(root.data, root);
-
-        if (!nodeMap.containsKey(parent)) {
-            nodeMap.put(parent, new Node(parent));
-        }
-        if (!nodeMap.containsKey(child)) {
-            nodeMap.put(child, new Node(child));
-        }
-
-        Node parentNode = nodeMap.get(parent);
-        Node childNode = nodeMap.get(child);
-
-        if (dir == 'L') {
-            parentNode.left = childNode;
-        } else {
-            parentNode.right = childNode;
-        }
-    }
 }
 ```
 
