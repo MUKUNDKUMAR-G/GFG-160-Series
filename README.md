@@ -200,6 +200,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 82  | Diameter of a Binary Tree              | [Solution](<./Tree/DAY82(Diameter of a Binary Tree)/>)              |
 | 83  | Mirror Tree                            | [Solution](<./Tree/DAY83(Mirror Tree)/>)                            |
 | 84  | Construct Tree from Inorder & Preorder | [Solution](<./Tree/DAY84(Construct Tree from Inorder & Preorder)/>) |
+| 85  | Inorder                                | [Solution](<./Tree/DAY85(InOrder)/>)                                |
 
 ---
 
