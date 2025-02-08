@@ -201,6 +201,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 83  | Mirror Tree                            | [Solution](<./Tree/DAY83(Mirror Tree)/>)                            |
 | 84  | Construct Tree from Inorder & Preorder | [Solution](<./Tree/DAY84(Construct Tree from Inorder & Preorder)/>) |
 | 85  | Inorder                                | [Solution](<./Tree/DAY85(InOrder)/>)                                |
+| 86  | Tree Boundary Traversal                | [Solution](<./Tree/DAY86(Tree Boundary Traversal)/>)                |
 
 ---
 
