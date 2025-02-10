@@ -203,6 +203,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 85  | Inorder                                | [Solution](<./Tree/DAY85(InOrder)/>)                                |
 | 86  | Tree Boundary Traversal                | [Solution](<./Tree/DAY86(Tree Boundary Traversal)/>)                |
 | 87  | Maximum path sum from any node         | [Solution](<./Tree/DAY87(Maximum path sum from any node)/>)         |
+| 87  | K Sum Paths                            | [Solution](<./Tree/DAY88(K%20Sum%20Paths)/>)                        |
 
 ---
 
