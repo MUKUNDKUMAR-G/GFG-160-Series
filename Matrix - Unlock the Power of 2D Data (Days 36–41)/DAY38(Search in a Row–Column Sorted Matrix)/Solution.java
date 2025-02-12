@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-class Solution {
+public class Solution {
     public static boolean matSearch(int mat[][], int x) {
         int n = mat.length; // Number of rows
         int m = mat[0].length; // Number of columns
@@ -21,7 +21,7 @@ class Solution {
         return false; // Element not found
     }
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         // Input the number of rows and columns

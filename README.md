@@ -205,6 +205,7 @@ Here’s a snapshot of my progress so far. Each problem is linked to its solutio
 | 87  | Maximum path sum from any node         | [Solution](<./Tree/DAY87(Maximum path sum from any node)/>)         |
 | 88  | K Sum Paths                            | [Solution](<./Tree/DAY88(K%20Sum%20Paths)/>)                        |
 | 89  | Check for BST                          | [Solution](<./Tree/DAY89(Check%20for%20BST)/>)                      |
+| 90  | k-th Smallest in BST                   | [Solution](<./Tree/DAY90(k-th%20Smallest%20in%20BST)/>)             |
 
 ---
 
